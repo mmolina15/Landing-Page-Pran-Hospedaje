@@ -1,0 +1,29 @@
+body{
+    
+    background-image: url(../images/image1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    
+}
+
+.header{
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    
+    
+}
+.parrafo{
+     text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
